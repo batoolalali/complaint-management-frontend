@@ -1,0 +1,10 @@
+#signup-form{
+    width: 20rem;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+#signup-form .form-control{
+    margin-bottom: 20px;
+}

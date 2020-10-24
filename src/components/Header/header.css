@@ -1,0 +1,10 @@
+.nav-item a{
+    margin-right: 10px;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: large;
+    font-weight: bold;
+    border-right: 1px solid;
+    padding-right: 10px;
+}

@@ -1,0 +1,29 @@
+.Resolved .status {
+    background-color: #11eb11;
+    /* margin: 5px; */
+    padding: 3px 3px 3px 7px;
+    border-radius: 12px;
+    margin-right: 70px;
+}
+
+.Dismissed  .status{
+
+    background-color: #ce4b51;
+    /* margin: 5px; */
+    padding: 3px 3px 3px 7px;
+    border-radius: 12px;
+    margin-right: 70px;
+}
+
+.Pending .status{
+    background-color: yellow;
+    /* margin: 5px; */
+    padding: 3px 3px 3px 7px;
+    border-radius: 12px;
+    margin-right: 70px;
+}
+
+.type{
+    position: absolute;
+    right: 20px;
+}
